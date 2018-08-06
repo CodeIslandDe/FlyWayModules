@@ -1,2 +1,2 @@
-# FlyWayModules
-Migrate your DB with multiple projects (modules) within FlyWay.
+# FlywayModules
+Migrate your DB with multiple projects (modules) within Flyway.
